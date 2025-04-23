@@ -7,5 +7,5 @@ Welcome to my GitHub profile! I'm **Braden Chance**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bpchance/), [Portfolio](https://bpchance.github.io/).
 
 ### My Pinned Projects
-- 🎨 [The Joy of Painting Database API](https://github.com/BPChance/atlas-the-joy-of-painting-api)
 - 🎸 [Music Visualizer](https://github.com/BPChance/Music-Visualizer)
+- 🎨 [The Joy of Painting Database API](https://github.com/BPChance/atlas-the-joy-of-painting-api)
